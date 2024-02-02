@@ -77,7 +77,7 @@ header .navbar li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('Images/bg.jpg');
+    background: url('bg.jpg');
     background-size: cover;
 }
 .banner .content{
